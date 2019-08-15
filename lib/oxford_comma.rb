@@ -14,6 +14,3 @@ def oxford_comma(array)
     return string
   end
 end
-
-
-oxford_comma(words)
